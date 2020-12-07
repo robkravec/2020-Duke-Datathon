@@ -26,14 +26,19 @@ While our analysis of the unemployment data is not overly sophisticated, the fol
 - Detecting anamolies in unfamiliar data sets and making reasonable decisions about how to handle them (e.g., 0% unemployment for some localities)
 - Simple time series visualizations
 - Feature engineering based on observed trends and intution (e.g., creating rolling averages instead of relying on point-in-time unemployment estimates)
+- Simple web scraping to handle information that is not in an easily consumable, tabular format 
 
 ## Plot showcase
 
 ### Final clustering results
 
+![](Clusters.png)
 
 ### Unemployment rates over time for example cities
 
+![](Tucson.png)
+
+![](Fresno.png)
 
 ## Acknowledgements
 
