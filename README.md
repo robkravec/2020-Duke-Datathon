@@ -32,13 +32,13 @@ While our analysis of the unemployment data is not overly sophisticated, the fol
 
 ### Final clustering results
 
-![](Clusters.png)
+![](images/Clusters.png)
 
 ### Unemployment rates over time for example cities
 
-![](Tucson.png)
+![](images/Tucson.png)
 
-![](Fresno.png)
+![](images/Fresno.png)
 
 ## Acknowledgements
 
