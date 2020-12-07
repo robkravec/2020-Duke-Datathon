@@ -1,7 +1,25 @@
-# 2020 Duke Datathon 
+# 2020 Duke Datathon - Local-level economic impacts of COVID-19
 
-To reproduce the results from this report, please run the "Datathon.Rmd" file in the "R" sub-folder. This .Rmd file depends on data contained in the "data" sub-folder.
+## Description
 
-The submission process for this Datathon does not allow us to include files that are greater than 50 MB in size. The IPUMS data used for our unemployment analysis (contained in this github repository) is 86 MB and therefore not included in this submission. 
+On October 31, 2020, Duke Undergraduate Machine Learning hosted a 24-hour data science hackathon ("datathon") focused on both understanding and forecasting local-level economic impacts of the COVID-19 pandemic. The prompt was open-ended and challenged teams to both source their own data and analyze it to produce novel insights.
 
-Please see the Github repository to access the source data: https://github.com/robkravec/Duke_COVID_Datathon_20201031
+Our team created a data set that contained information of COVID-19 case counts, government interventions, and unemployment levels for counties within the United States. Using these information, we implemented a simple clustering algorithm to identify unique county "archetypes." While these archetypes were based on historical data, we assert in our report that these grouping can also inform the path to economic recovery for different localities.
+
+This repository contains all of the data and code utilized to generate our final report (as well as said final report). In addition to general problem-solving with the team, I led our work on sourcing and analyzing unemployment data, so I'll feature some of that output in this README.
+
+Our submission was chosen as one of four winning submissions among 300+ student entrants (with maximum group size of 5).
+
+## Relevant files
+
+
+## Methods for unemployment analysis
+
+
+## Plot showcase
+
+
+## Acknowledgements
+
+- Duke Undergraduate Machine Learning hosted this datathon, and submissions were assessed by Duke University faculty
+- For this project, I teammed up with three other first-year Master's student in Statistical Science at Duke: Marc Brooks, Jack McCarthy, Michael Sarkis
