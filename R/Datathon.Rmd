@@ -22,7 +22,7 @@ library(factoextra)
 ```
 
 ```{r load_unemp_data}
-ddi <- read_ipums_ddi("./../data/cps_00002.xml")
+ddi <- read_ipums_ddi("data/cps_00002.xml")
 data <- read_ipums_micro(ddi)
 ```
 
